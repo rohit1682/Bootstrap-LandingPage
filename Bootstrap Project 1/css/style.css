@@ -1,0 +1,483 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+    margin: 0;
+    padding: 0;
+    height: 1861px;
+    width: 100%;
+    background-image: url(../images/Shape1.png);
+    background-repeat: no-repeat;
+    background-size: 40% 50%;
+    background-position-y: 600px;
+    background-color: e8631c;
+}
+
+.div1_1{
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/image1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 865px;
+    width: 100%;
+}
+
+.div1_navigation{
+    margin: 0;
+    padding: 0;
+    height: 106px;
+    width: 100%;
+    background-color: 303030;
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+
+.div1_navigation .logo{
+    margin-top: 18px;
+    margin-left: 81px;
+    margin-bottom: 15px;
+    display: inline;
+}
+
+.div1_navigation a{
+    margin-top: 49px;
+    margin-bottom: 35px;
+    color: white !important;
+    text-decoration: none;
+    display: inline;
+    margin-left: 57px;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div1_firstOption{
+    margin-left: 263px;
+}
+
+.div1_navigation .icon1{
+    height: 31px;
+    width: 31px;
+    margin-right: 58px;
+}
+
+.div1_text1{
+    margin-top: 239px;
+    font-size: 124.63px;
+    margin-left: 81px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div1_text2{
+    width: 633px;
+    margin-left: 83px;
+    margin-top: 38px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29.72px;
+}
+
+.div1_button1{
+    color: white;
+    background-color: e8631c;
+    height: 65px;
+    width: 321px;
+    margin-top: 46px;
+    margin-left: 82px;
+    border: black;
+    border-radius: 2%;
+}
+
+.div1_2_text1{
+    color: white;
+    margin-top: 106px;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div1_2_text2{
+    margin-top: 64px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29.72px;
+    padding-left: 234px;   
+    padding-right: 185px; 
+}
+
+.div1_2_cards{
+    margin-top: 80px;
+    margin-left: 72px;
+}
+
+.div1_2_card{
+    height: 493px;
+    width: 372px;
+    background-color: 303030;
+    margin-left: 67px;
+    display: inline-block;
+    color: white;
+}
+
+.div1_2_card h1{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 36.95px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div1_2_card p{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 22.17px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.div2{
+    padding: 0;
+    margin: 0;
+    height: 968px;
+    background-image: url(../images/Shape2.png) , url(../images/Shape3.png);
+    background-repeat: no-repeat;
+    background-size: 30% 100%, 30% 100%;
+    background-color: 303030;
+    background-position: top left, bottom right;
+    background-position-y: -350px, 500px;
+}
+
+.div2_text1{
+    padding-top: 77px;
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div2_text2{
+    color: white;
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 29.72px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.div2_cards{
+    margin-top: 70px;
+    padding: 0;
+}
+
+.div2_blankSpace1{
+    padding-left: 60px;
+    display: inline-block;
+}
+
+.div2_card{
+    border-radius: 2%;
+    height: 493px;
+    width: 373px;
+    background-color: e8631c;
+    display: inline-block;
+    margin-left: 60px;
+}
+
+.div2_icons{
+    margin-top: 60px;
+    margin-left: 130px;
+}
+
+.div2_card h1{
+    margin-top: 60px;
+    color: white;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div2_card p{
+    margin-top: 25px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.div2_price{
+    height: 68px;
+    width: 325px;
+    background-color: 303030;
+    margin-top: 28px;
+    margin-left: 25px;
+    border-radius: 2%;
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div2_price p{
+    padding-top: 15px;
+}
+
+.div3{
+    padding: 0;
+    margin: 0;
+    background-color: e8631c;
+    background-image: url(../images/Shape3.png), url(../images/Shape4.png) , url(../images/Shape5.png);
+    background-position: right top , left bottom , right center;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 33% 75%, 33% 50% , 38% 30%;
+    background-position-y: -1000px , 1600px , 700px;
+}
+
+#dance-icons{
+    padding: 0;
+    margin: 0;
+}
+
+.row1{
+    display: flex;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.row2{
+    display: flex;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.col1{
+    width: 764px;
+}
+
+.col2{
+    color: white;
+    padding-top: 350px;
+    padding-left: 100px;
+}
+
+.col3{
+    color: white;
+    padding-top: 350px;
+    padding-left: 100px;
+}
+
+.col4{
+    padding-left: 28px;
+    width: 784px;
+}
+
+.div3 h1{
+    padding-left: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 75px;
+}
+
+.div3 p{
+    padding-top: 40px;
+    padding-left: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.div3 button{
+    width: 322px;
+    height: 67px;
+    border: black;
+    background-color: 303030;
+    color: white;
+    font-size: 29.17;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 2%;
+}
+
+.read-more{
+    margin-top: 69px;
+    margin-left: 30px;
+}
+
+.div4{
+    background-color: 303030;
+    height: 731px;
+    color: white;
+}
+
+.div4_1 h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 75px;
+    margin-left: 530px;
+    padding-top: 70px;
+}
+
+.div4_1 p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 48px;
+    margin-left: 360px;
+    width: 800px;
+}
+
+.div4_cards{
+    margin-top: 130px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.div4_cards h1{
+    font-size: 60.87px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div4_cards p{
+    font-size: 25.67px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.div5{
+    margin: 0;
+    padding: 0;
+    height: 970px;
+    width: 100% !important;
+    background-image: url(../images/background2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #e8631c;
+    background-blend-mode: multiply;
+    color: white;
+}
+
+.div5 p{
+    padding-top: 341px;
+    width: 917px;
+    margin-left: 282px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.div5 h1{
+    padding-top: 85px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 58.33px;
+}
+
+.div6{
+    height: 496px;
+    background-color: #e8631c;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/Shape7.png) , url(../images/Shape8.png);
+    background-position: right , left;
+    background-size: 40% 100% , 40% 100%;
+    background-position-x: 950px , -100px;
+    color: white;
+    text-align: center;
+}
+
+.div6_first h1{
+    padding-top: 69px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 75px;
+}
+
+.div6_first p{
+    padding-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29.72px;
+    width: 862px;
+    margin-left: 324px;
+}
+
+.div6_items{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.div6_1{
+    height: 68px;
+    width: 553px;
+    background-color: white;
+    margin-left: 357px;
+    margin-top: 50px;
+    color: black;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    border: black;
+    border-radius: 1%;
+}
+
+.div6_1 p{
+    padding-top: 15px;
+}
+
+.div6_2{
+    margin-top: 48px;
+    margin-right: 400px;
+    color: white;
+    text-align: center;
+    border: black;
+    border-radius: 1%;
+}
+
+.div6_2 button{
+    background-color: 303030;
+    width: 223px;
+    height: 68px;
+    color: white;
+}
+
+.div7{
+    background-color: 303030;
+    height: 479px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+.div7 h1{
+    font-size: 33.33px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.div7 p{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card1{
+    margin-left: 54px;
+    width: 496px;
+}
+
+.card1 h1{
+    padding-top: 73px;
+}
+
+.card2 h1{
+    padding-top: 73px;
+}
+
+.card3 h1{
+    padding-top: 73px;
+}
+
+
+
+
+
+
